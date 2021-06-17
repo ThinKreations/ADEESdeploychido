@@ -3,11 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/USER/Desktop/ADEES/src/java/Servlet/GuardarPaciente.java</file>
-            <file>file:/C:/Users/USER/Desktop/ADEES/web/index.html</file>
             <file>file:/C:/Users/USER/Desktop/ADEES/src/java/Control/Conexion.java</file>
             <file>file:/C:/Users/USER/Desktop/ADEES/src/java/Modelo/Paciente.java</file>
-            <file>file:/C:/Users/USER/Desktop/ADEES/src/java/Control/AccionesPaciente.java</file>
+            <file>file:/C:/Users/USER/Desktop/ADEES/web/index.html</file>
+            <file>file:/C:/Users/USER/Desktop/ADEES/src/java/Servlet/GuardarPaciente.java</file>
         </group>
     </open-files>
 </project-private>
