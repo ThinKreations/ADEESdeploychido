@@ -16,6 +16,14 @@
         <servlet-name>Paciente</servlet-name>
         <servlet-class>Modelo.Paciente</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>AccionesPsicologo</servlet-name>
+        <servlet-class>Control.AccionesPsicologo</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>AccionesTutor</servlet-name>
+        <servlet-class>Control.AccionesTutor</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>GuardarPaciente</servlet-name>
         <url-pattern>/GuardarPaciente</url-pattern>
@@ -31,6 +39,14 @@
     <servlet-mapping>
         <servlet-name>Paciente</servlet-name>
         <url-pattern>/Paciente</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AccionesPsicologo</servlet-name>
+        <url-pattern>/AccionesPsicologo</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>AccionesTutor</servlet-name>
+        <url-pattern>/AccionesTutor</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
